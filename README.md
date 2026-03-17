@@ -47,7 +47,7 @@ It should just work™ — UDP sends most of it quickly, TCP quietly cleans up t
   High loss turns the TCP repair into "just normal TCP with extra steps". Not fun.
 
 - **File integrity**: No checksums yet. Super rare bit flips might sneak through.  
-- **Security**: None. Zero. Zilch. Don't send nudes or bank details over this.
+- **Security**: None. Zero. Zilch. 
 
 ## Current status / known laziness
 
